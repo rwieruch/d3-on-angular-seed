@@ -1,6 +1,8 @@
 D3-On-Angular-Seed
 ==================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/rwieruch/d3-on-angular-seed.svg)](https://greenkeeper.io/)
+
 This project is a skeleton for angular.js web apps with the power to make awesome d3.js visualizations. It was scaffolded by yeoman. More on http://www.robinwieruch.de/
 
 Getting Started
